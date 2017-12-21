@@ -131,7 +131,7 @@
 
     # Constant: UPDATE_PAGE
     # URL to the list of releases.
-    define('UPDATE_PAGE', "https://github.com/xenocrat/chyrp-lite/releases");
+    define('UPDATE_PAGE', "https://github.com/Honey-Be/rechyrp/releases");
 
     # Constant: USE_OB
     # Use output buffering?
